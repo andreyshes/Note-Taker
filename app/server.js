@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 
 const app = express();
-const PORT = procress.env.PORT || 8000;
+const PORT = procress.env.PORT || 6969;
 
 app.use(express.json());
 
